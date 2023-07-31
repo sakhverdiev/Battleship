@@ -1,0 +1,51 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.34.31937.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/senan/source/repos/battle_ship_project/battleshipmain.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "010da9f4a06acf44fc7737c3d80b27800adbaba64bc392dd05588e0ea089b9e6"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/senan/source/repos/battle_ship_project/gameboard.h"
+          },
+          "hashes": {
+            "sha-256": "57a5f226c50adb36dd92144505c0ae92dab3e62372ac58d0168b9c3fdf5bbf7e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/senan/source/repos/battle_ship_project/functions.h"
+          },
+          "hashes": {
+            "sha-256": "9f93919e5d0e73605905917759c030fee478f534a73d2a04052adaf7ff44df88"
+          }
+        }
+      ]
+    }
+  ]
+}

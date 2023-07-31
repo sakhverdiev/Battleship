@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Project1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BattleShipMain.cpp
+C:\Users\Senan\Desktop\Battle_Ship_Project\GameBoard.h(37,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Senan\Desktop\Battle_Ship_Project\Functions.h(16,14): warning C4309: 'initializing': truncation of constant value
+C:\Users\Senan\Desktop\Battle_Ship_Project\BattleShipMain.cpp(19,10): warning C4101: 'quitGame': unreferenced local variable
+  GameBoard.h
+C:\Users\Senan\Desktop\Battle_Ship_Project\GameBoard.h(37,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project1.vcxproj -> C:\Users\Senan\Desktop\Battle_Ship_Project\x64\Debug\Battle_Ship_Project.exe

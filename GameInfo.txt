@@ -1,0 +1,4 @@
+Oyun munyusunda hem "w a s d", hem de ox duymeleri ile hereket etmek mumkundur.
+Oyun icinde ise "w a s d" ile hereket (ox duymeleri ile cursor gec hereket etdiyine gore qoymadim),
+"q" ile cixis ve "f" ile gemini vurmaq olur.
+Diger melumatlar How to Play bolmesindedir.
